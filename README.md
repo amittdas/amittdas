@@ -1,4 +1,4 @@
-# ## Hi there 👋 I'm Amit Das
+#  Hi there 👋 I'm Amit Das
 
 <p align="left">
   <a href="https://linkedin.com/in/amittdas1579" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
